@@ -1,0 +1,132 @@
+
+
+body > header > nav.horizontalNavigation li {
+    width: 25%;
+    display: block;
+    color: white;
+    font-size: 20px;
+    float: left;
+    
+}
+
+nav.horizontalNavigation li {
+    display: block;
+    float: left;
+    color: white;
+}
+
+nav.horizontalNavigation a {
+    display: block;
+    text-align:  center;
+    font-size: 35px;
+    font-style: monospace;
+   text-decoration: inherit;
+    color: white;
+}
+
+li a:hover {
+    background-color: #111;
+}
+/* Body Header Styles */
+body > header > img {
+    display: left;
+    margin: 0px;
+    padding: 
+
+    
+}
+
+div.articles {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+        grid-column-gap: 30px;
+
+}
+
+header>h1 { 
+    display: block;
+    text-align: left;
+    color: slategray;
+    
+
+    
+}
+/*body styles*/
+
+body {
+    background-color: orange;
+}
+
+div.headertext {
+   text-align: center;
+    font-size: 30px;
+   
+   
+}
+
+
+footer {
+    background-color: dimgrey;
+    margin: 0px;
+    padding: 0px;
+}
+
+section#contactInfo p {
+   line-height: 1.4em;
+   margin: 1em;
+}   
+
+body > footer {
+   font-size: 0.9em;
+   color: rgb(186, 186, 156);
+}
+
+body > footer h1 {
+   color: rgb(248, 248, 186);
+   font-size: 1.1em;
+   font-weight: normal;
+   letter-spacing: 0.2em;
+   margin: 1em 0 0.5em 1em;
+}
+
+div.contacfooter {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 15px;
+    font-style: monospace;
+    font-size: 20px;
+    margin-left: inherit;
+    
+}
+
+.Menu { 
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  color: white;
+
+}
+
+.container {
+    max-width: 120rem;
+    margin: 0 auto;
+  
+
+}
+
+li.poss{
+  float: left;
+color: white;
+}
+
+.edition {
+    font-size: 25px;
+     color: white;
+    list-style: disc;
+}
+
+.logo {
+    float: left;
+}
